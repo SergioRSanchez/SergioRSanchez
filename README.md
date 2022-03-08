@@ -25,5 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiorsanchez&show_icons=true&locale=en&layout=compact" alt="sergiorsanchez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiorsanchez&show_icons=true&locale=en" alt="sergiorsanchez" /></p>
-
-![Snake animation](https://github.com/SergioRSanchez/SergioRSanchez/blob/output/github-contribution-grid-snake.svg) 
+![image](https://user-images.githubusercontent.com/85970757/157258315-6017de26-d94a-4a53-8893-7d2a3a5e95e2.png)
