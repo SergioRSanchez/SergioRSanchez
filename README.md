@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A passionate developer from Brasil, looking for my first oportunity in the dev area.</h3>
+<h3 align="center">A passionate developer from Brasil, working in web development area and always looking for next challenge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiorsanchez&label=Profile%20views&color=0e75b6&style=flat" alt="sergiorsanchez" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SergioRSanchez](https://github.com/SergioRSanchez)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/s%C3%A9rgio-roberto-sanchez-filho-1b370120a/](https://www.linkedin.com/in/s%C3%A9rgio-roberto-sanchez-filho-1b370120a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sergio-roberto-sanchez-filho/](https://www.linkedin.com/in/sergio-roberto-sanchez-filho/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
